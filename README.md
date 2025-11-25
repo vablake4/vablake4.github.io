@@ -1,2 +1,2 @@
 # Violet Blake
-![me](Violet.jpeg)
+<img src="Violet.jpeg" width="200" height="280">
