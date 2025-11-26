@@ -31,7 +31,8 @@ Check out my Breaking Bad/Stardew Valley inspired platformer - Walter Kart! You 
 <br>
 <h1>Links</h1>
 <br>
-<a href="resume.docx.pdf">My Resume</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hh
+<a href="resume.docx.pdf">My Resume</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/vablake4">My Github</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/violet-blake-b56138386/">My LinkedIn</a>
 
 
    
