@@ -5,7 +5,7 @@
 
   <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Me</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi! I am Violet Blake, a first year student at Michigan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technological University! I am currently looking for an&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;internship opportunity where I will be able to gain real-world programming experience. Some of my skills include Java, C++, C#, Microsoft VS Code, and Adobe Photoshop/Illustrator. I am also a skilled piano player and I enjoy reading and travel in my free time!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi! I am Violet Blake, a first year student at Michigan<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technological University! I am currently looking for an<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;internship opportunity where I will be able to gain real-world programming experience. Some of my skills include Java, C++, C#, Microsoft VS Code, and Adobe Photoshop/Illustrator. I am also a skilled piano player and I enjoy reading and travel in my free time!
 
 </p>
 
