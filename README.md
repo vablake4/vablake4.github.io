@@ -15,12 +15,16 @@
 
 <br>
 <br>
-<br>
 
 <h1>Projects</h1>
 <br>
+Check out my Breaking Bad/Stardew Valley inspired platformer - Walter Kart! You can download this from my itch.io using the following link:
 <br>
-Check out my Breaking Bad/Stardew Valley inspired platformer - Walter Kart! You can download this from my itch.io using this link:
 <br>
+
+<p align = "left">
+<img align="center" src="Violet.jpeg" width="50" height="50" alt="image" />   
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://anants.itch.io/walter-kart">Walter Kart</a> 
+</p>
 
    
