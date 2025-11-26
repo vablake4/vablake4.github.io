@@ -31,7 +31,7 @@ Check out my Breaking Bad/Stardew Valley inspired platformer - Walter Kart! You 
 <br>
 <h1>Links</h1>
 <br>
-<a href="">Walter Kart</a> 
+<a href="resume.docx.pdf">My Resume</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hh
 
 
    
