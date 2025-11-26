@@ -23,7 +23,7 @@ Check out my Breaking Bad/Stardew Valley inspired platformer - Walter Kart! You 
 <br>
 
 <p align = "left">
-<img align="center" src="Violet.jpeg" width="50" height="50" alt="image" />   
+<img align="center" src="title-01.png" width="100" height="75" alt="image" />   
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://anants.itch.io/walter-kart">Walter Kart</a> 
 </p>
 
